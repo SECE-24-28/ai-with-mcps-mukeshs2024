@@ -1,0 +1,7 @@
+google-adk
+mcp[cli]
+python-dotenv
+pandas
+numpy
+matplotlib
+openpyxl

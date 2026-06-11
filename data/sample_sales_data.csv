@@ -1,0 +1,509 @@
+Date,Product_Name,Category,Unit_Price,Quantity_Sold,Total_Sales,Region,Customer_Type,Payment_Method
+2024-04-19,Tool C,Hardware,23.41,13,304.33,West,Retail,Credit Card
+2024-02-25,Widget A,Electronics,54.5,8,436.0,South,Retail,Cash
+2024-03-29,Sensor D,Electronics,140.15,11,1541.65,South,Retail,PayPal
+2024-04-11,Display H,Electronics,218.64,7,1530.48,North,Retail,Credit Card
+2024-05-13,Display H,Electronics,185.29,2,370.58,North,Retail,Credit Card
+2024-04-04,Display H,Electronics,186.69,11,2053.59,South,Retail,Bank Transfer
+2024-04-08,Widget A,Electronics,54.52,7,381.64,West,Retail,Credit Card
+2024-02-22,Charger J,Accessories,32.67,2,65.34,South,Retail,Credit Card
+2024-01-11,Widget A,Electronics,48.25,10,482.5,North,Retail,Credit Card
+2024-02-17,Display H,Electronics,213.66,11,2350.26,West,Retail,Credit Card
+2024-06-26,Mount F,Hardware,32.73,1,32.73,North,Retail,PayPal
+2024-06-27,Charger J,Accessories,28.57,10,285.7,South,Retail,Credit Card
+2024-04-12,Display H,Electronics,206.74,4,826.96,North,Retail,Bank Transfer
+2024-02-22,Widget A,Electronics,51.47,3,154.41,South,Retail,Credit Card
+2024-06-22,Cable E,Accessories,10.0,13,130.0,North,Retail,PayPal
+2024-03-15,Charger J,Accessories,27.79,33,917.07,West,Wholesale,Credit Card
+2024-01-06,Display H,Electronics,206.68,12,2480.16,South,Wholesale,Credit Card
+2024-03-21,Display H,Electronics,204.16,1,204.16,South,Retail,PayPal
+2024-03-20,Mount F,Hardware,36.33,11,399.63,North,Retail,Credit Card
+2024-02-11,Cable E,Accessories,10.13,4,40.52,North,Retail,Bank Transfer
+2024-04-08,Cable E,Accessories,9.28,16,148.48,North,Wholesale,Credit Card
+2024-02-20,  Adapter G  ,Accessories,14.46,16,231.36,North,Wholesale,Credit Card
+2024-05-24,Display H,Electronics,180.63,18,3251.34,South,Wholesale,PayPal
+2024-02-09,Gadget B,Electronics,81.94,2,163.88,South,Retail,Credit Card
+2024-01-19,Sensor D,Electronics,126.61,41,5191.01,WEST,Wholesale,Cash
+2024-02-27,Sensor D,Electronics,123.64,41,5069.24,East,Wholesale,Credit Card
+2024-06-01,Charger J,Accessories,31.58,13,410.54,North,Retail,PayPal
+2024-02-26,Cable E,Accessories,9.28,13,120.64,North,Retail,Bank Transfer
+2024-02-25,Adapter G,Accessories,16.46,15,246.9,North,Retail,PayPal
+2024-03-07,Charger J,Accessories,27.0,5,135.0,North,Retail,Credit Card
+2024-03-02,Cable E,Accessories,10.79,9,97.11,South,Retail,PayPal
+2024-04-23,Sensor D,Electronics,127.18,12,1526.16,NORTH,Retail,Bank Transfer
+2024-03-30,Charger J,Accessories,27.73,49,1358.77,West,Wholesale,Bank Transfer
+2024-01-25,Widget A,Electronics,52.88,5,264.4,North,Retail,Bank Transfer
+2024-01-07,Mount F,Hardware,38.3,3,114.9,North,Retail,PayPal
+2024-02-22,Mount F,Hardware,35.41,2,70.82,West,Retail,PayPal
+2024-06-19,Charger J,Accessories,31.63,8,253.04,North,Retail,Credit Card
+2024-05-14,Adapter G,Accessories,15.58,7,109.06,West,Retail,PayPal
+2024-05-09,Bracket I,Hardware,20.32,12,243.84,West,Retail,Bank Transfer
+2024-05-04,Tool C,Hardware,26.15,1,26.15,South,Retail,PayPal
+2024-03-24,Cable E,Accessories,9.5,7,66.5,WEST,Retail,PayPal
+2024-05-23,Charger J,Accessories,28.33,15,424.95,North,Retail,Credit Card
+2024-02-01,Bracket I,Hardware,21.53,49,1054.97,East,Wholesale,Credit Card
+2024-01-09,Mount F,Hardware,37.66,6,225.96,North,Retail,PayPal
+2024-03-03,Display H,Electronics,208.32,27,5624.64,North,Wholesale,PayPal
+2024-01-05,Gadget B,Electronics,69.74,29,2022.46,North,Wholesale,Credit Card
+2024-06-29,Widget A,Electronics,54.05,3,162.15,East,Retail,Bank Transfer
+2024-02-07,Mount F,Hardware,38.08,14,533.12,South,Retail,PayPal
+2024-05-29,Sensor D,Electronics,121.5,7,850.5,North,Retail,Bank Transfer
+2024-05-21,Widget A,Electronics,53.28,3,159.84,South,Retail,Credit Card
+2024-04-19,Widget A,Electronics,53.32,5,266.6,South,Retail,PayPal
+2024-01-19,Adapter G,Accessories,16.25,6,97.5,West,Retail,Credit Card
+2024-02-01,Bracket I,Hardware,20.96,12,251.52,East,Retail,Credit Card
+2024-04-17,Adapter G,Accessories,15.03,4,60.12,North,Retail,Cash
+2024-02-12,Cable E,Accessories,9.81,3,29.43,West,retail,Credit Card
+2024-03-11,Mount F,Hardware,31.91,6,191.46,East,Retail,Bank Transfer
+2024-05-01,Bracket I,Hardware,20.67,21,434.07,West,Wholesale,PayPal
+2024-01-17,Adapter G,Accessories,15.33,6,91.98,North,Retail,Cash
+2024-06-19,Tool C,Hardware,26.44,3,79.32,South,Retail,Credit Card
+2024-05-31,Cable E,Accessories,10.23,5,51.15,South,Retail,Credit Card
+2024-03-03,Tool C,Hardware,22.78,15,,North,Wholesale,Credit Card
+2024-02-03,Widget A,Electronics,52.88,10,528.8,East,Wholesale,Credit Card
+2024-01-01,Tool C,Hardware,23.0,6,138.0,West,Retail,PayPal
+2024-02-05,Adapter G,Accessories,14.27,28,399.56,South,Wholesale,Bank Transfer
+2024-03-05,Mount F,Hardware,31.8,12,381.6,West,Wholesale,Credit Card
+2024-02-15,Bracket I,Hardware,18.99,24,455.76,East,Wholesale,Bank Transfer
+2024-05-29,Charger J,Accessories,28.89,6,173.34,North,Retail,Bank Transfer
+2024-01-15,Display H,Electronics,206.91,16,3310.56,South,Wholesale,Bank Transfer
+2024-04-14,Adapter G,Accessories,13.88,12,166.56,South,Wholesale,Credit Card
+2024-01-27,Bracket I,Hardware,21.62,3,64.86,East,Retail,Bank Transfer
+2024-05-16,Widget A,Electronics,50.36,30,1510.8,South,Wholesale,Cash
+2024-03-10,Charger J,Accessories,31.29,4,125.16,North,Retail,Cash
+2024-01-19,Charger J,Accessories,30.46,3,91.38,East,Retail,Bank Transfer
+2024-06-14,Sensor D,Electronics,141.51,27,3820.77,West,Wholesale,Credit Card
+2024-01-21,Sensor D,Electronics,130.0,6,780.0,East,Retail,PayPal
+2024-02-15,Charger J,Accessories,32.23,38,1224.74,SOUTH,Wholesale,Credit Card
+2024-06-26,Charger J,Accessories,31.56,6,189.36,South,retail,PayPal
+2024-03-15,Cable E,Accessories,9.88,9,88.92,South,Retail,PayPal
+2024-02-26,Widget A,Electronics,48.3,38,1835.4,South,wholesale,Bank Transfer
+2024-04-08,Display H,Electronics,198.28,374,74156.72,South,Wholesale,Bank Transfer
+2024-05-08,Display H,Electronics,182.28,14,2551.92,North,Retail,Cash
+2024-01-01,Gadget B,Electronics,74.97,41,3073.77,SOUTH,Wholesale,PayPal
+2024-04-08,Mount F,Hardware,36.61,5,183.05,South,Retail,Credit Card
+2024-01-20,Mount F,Hardware,38.08,3,114.24,West,Retail,Credit Card
+2024-06-22,Cable E,Accessories,10.79,1,10.79,North,Retail,Credit Card
+2024-06-26,Widget A,Electronics,50.9,10,509.0,South,Wholesale,Cash
+2024-04-03,Cable E,Accessories,10.32,8,82.56,West,Retail,Credit Card
+2024-06-27,Adapter G,Accessories,15.58,14,218.12,WEST,Retail,PayPal
+2024-01-06,Bracket I,Hardware,20.7,31,641.7,North,Wholesale,Credit Card
+2024-01-17,Display H,Electronics,208.98,1,208.98,North,Retail,Bank Transfer
+2024-02-12,Display H,Electronics,186.85,1,186.85,North,Retail,Credit Card
+2024-03-19,Adapter G,Accessories,14.45,14,202.3,South,Retail,Cash
+2024-03-27,Charger J,Accessories,27.98,4,111.92,East,Retail,Cash
+2024-03-27,Bracket I,Hardware,18.88,9,169.92,South,Retail,Credit Card
+2024-03-14,Cable E,Accessories,9.66,39,376.74,South,Wholesale,Credit Card
+2024-04-24,Charger J,Accessories,32.06,7,224.42,West,Retail,Bank Transfer
+2024-04-23,Sensor D,Electronics,123.5,27,3334.5,South,Wholesale,Bank Transfer
+2024-06-10,Tool C,Hardware,26.14,44,1150.16,West,Wholesale,Bank Transfer
+2024-04-19,Sensor D,Electronics,135.85,7,950.95,North,Retail,PayPal
+2024-03-28,Widget A,Electronics,45.53,14,637.42,South,Wholesale,Cash
+2024-02-26,Bracket I,Hardware,18.25,4,73.0,South,Retail,Bank Transfer
+2024-01-07,Charger J,Accessories,32.95,26,856.7,NORTH,Wholesale,Credit Card
+2024-03-14,Cable E,Accessories,9.66,39,376.74,South,Wholesale,Credit Card
+2024-01-23,Charger J,Accessories,30.89,10,308.9,East,Retail,Bank Transfer
+2024-03-05,Tool C,Hardware,26.24,14,367.36,East,Retail,Credit Card
+2024-03-06,Widget A,Electronics,45.1,12,541.2,North,Retail,PayPal
+2024-01-23,Bracket I,Hardware,19.0,3,57.0,South,Retail,PayPal
+2024-01-02,Charger J,Accessories,31.85,18,573.3,WEST,Wholesale,Bank Transfer
+2024-02-13,Adapter G,Accessories,15.44,4,61.76,East,Retail,Credit Card
+2024-05-31,Cable E,Accessories,10.23,5,51.15,South,Retail,Credit Card
+2024-04-23,Sensor D,Electronics,129.67,12,1556.04,West,Retail,PayPal
+2024-03-15,Adapter G,Accessories,15.16,15,227.4,North,Retail,Credit Card
+2024-05-21,Widget A,Electronics,50.46,36,1816.56,North,Wholesale,Credit Card
+2024-05-07,Tool C,Hardware,25.55,14,357.7,North,Retail,Bank Transfer
+2024-04-22,Charger J,Accessories,27.52,15,412.8,South,Retail,PayPal
+2024-06-24,Tool C,Hardware,26.31,7,184.17,West,Retail,Credit Card
+2024-04-04,Widget A,Electronics,52.95,15,794.25,East,Retail,Credit Card
+2024-03-15,Display H,Electronics,188.39,7,1318.73,North,Retail,Bank Transfer
+2024-06-05,Charger J,Accessories,32.97,49,1615.53,West,Wholesale,PayPal
+2024-04-21,Widget A,Electronics,50.14,8,401.12,North,Retail,Credit Card
+2024-01-15,Mount F,Hardware,32.75,47,1539.25,North,Wholesale,Bank Transfer
+2024-05-23,Mount F,Hardware,33.04,44,1453.76,East,Wholesale,Credit Card
+2024-01-13,Charger J,Accessories,32.21,10,322.1,West,Wholesale,Credit Card
+2024-03-29,Gadget B,Electronics,71.6,9,644.4,South,Retail,Cash
+2024-05-20,Bracket I,Hardware,21.63,50,1081.5,North,Wholesale,Bank Transfer
+2024-04-24,Tool C,Hardware,26.07,46,1199.22,North,Wholesale,Credit Card
+2024-03-24,Gadget B,Electronics,78.99,1,78.99,North,Retail,PayPal
+2024-02-23,Mount F,Hardware,37.08,9,333.72,South,Retail,PayPal
+2024-05-04,Mount F,Hardware,32.62,3,97.86,East,Retail,Cash
+,,,,,,,,
+2024-04-05,Widget A,Electronics,45.98,11,505.78,West,Retail,Cash
+2024-01-19,Bracket I,Hardware,18.63,14,260.82,East,Retail,Bank Transfer
+2024-06-13,Bracket I,Hardware,21.47,10,214.7,North,Retail,Credit Card
+2024-03-03,Display H,Electronics,192.58,4,770.32,South,Retail,Bank Transfer
+2024-01-26,Gadget B,Electronics,68.91,15,1033.65,North,Wholesale,Credit Card
+2024-04-12,Cable E,Accessories,9.88,25,247.0,South,Wholesale,Credit Card
+2024-01-15,Mount F,Hardware,32.75,47,1539.25,North,Wholesale,Bank Transfer
+2024-01-21,Gadget B,Electronics,80.47,11,885.17,South,Wholesale,Credit Card
+2024-01-07,Adapter G,Accessories,14.51,1,14.51,West,Retail,Credit Card
+2024-02-23,Widget A,Electronics,53.41,12,640.92,West,retail,Cash
+2024-02-16,Cable E,Accessories,9.14,10,91.4,East,Retail,Credit Card
+2024-04-04,Bracket I,Hardware,19.35,8,154.8,North,Retail,PayPal
+2024-03-09,Widget A,Electronics,53.75,3,161.25,North,Retail,Credit Card
+2024-01-23,Bracket I,Hardware,20.74,14,290.36,North,Wholesale,Bank Transfer
+2024-03-25,Cable E,Accessories,10.64,31,329.84,East,Wholesale,Cash
+2024-06-08,Bracket I,Hardware,19.97,9,179.73,North,Retail,Credit Card
+2024-04-18,Display H,Electronics,218.61,18,3934.98,SOUTH,Wholesale,Credit Card
+2024-05-31,Tool C,Hardware,23.59,15,353.85,North,Retail,Credit Card
+2024-04-09,Display H,Electronics,215.85,4,863.4,West,Retail,Credit Card
+2024-05-08,Charger J,Accessories,32.81,1,32.81,North,Retail,PayPal
+2024-02-02,Tool C,Hardware,25.24,5,126.2,East,retail,Credit Card
+2024-04-08,,Hardware,36.97,6,221.82,North,Retail,Credit Card
+2024-06-10,Widget A,Electronics,53.96,11,593.56,West,Wholesale,PayPal
+2024-01-03,Bracket I,Hardware,21.98,13,285.74,North,Retail,PayPal
+2024-06-29,Charger J,Accessories,27.05,17,459.85,North,Wholesale,Credit Card
+2024-01-21,Charger J,Accessories,32.91,2,65.82,South,Retail,Credit Card
+2024-01-14,Charger J,Accessories,31.16,35,1090.6,North,Wholesale,Credit Card
+2024-05-05,Widget A,Electronics,45.5,5,227.5,South,Retail,Credit Card
+2024-05-21,Bracket I,Hardware,19.92,7,139.44,North,Retail,PayPal
+2024-06-19,Mount F,Hardware,35.24,3,105.72,South,Retail,Bank Transfer
+2024-04-19,Sensor D,Electronics,138.49,4,553.96,South,Retail,Cash
+2024-04-19,Tool C,Hardware,26.65,8,213.2,North,Retail,Credit Card
+2024-01-11,Sensor D,Electronics,126.22,4,,North,Retail,PayPal
+2024-05-03,Bracket I,Hardware,18.72,11,205.92,South,Wholesale,Credit Card
+2024-04-28,Widget A,Electronics,51.13,7,357.91,WEST,Retail,Bank Transfer
+2024-03-29,Display H,Electronics,215.34,7,1507.38,South,Retail,Credit Card
+2024-05-27,Gadget B,Electronics,71.55,11,787.05,West,Retail,Cash
+2024-03-10,Mount F,Hardware,33.7,202,6807.4,North,Retail,PayPal
+2024-02-26,Gadget B,Electronics,68.72,48,3298.56,South,wholesale,Bank Transfer
+2024-03-22,Gadget B,Electronics,75.65,34,2572.1,East,Wholesale,Bank Transfer
+2024-02-14,Display H,Electronics,193.64,33,6390.12,North,Wholesale,Bank Transfer
+2024-05-22,Cable E,Accessories,9.22,14,129.08,South,Retail,Credit Card
+2024-04-11,Tool C,Hardware,27.17,42,1141.14,South,Wholesale,Cash
+2024-06-07,Tool C,Hardware,24.99,34,849.66,South,Wholesale,Credit Card
+2024-04-14,Cable E,Accessories,10.02,6,60.12,North,Retail,Credit Card
+2024-04-29,Cable E,Accessories,9.0,12,108.0,North,Retail,Bank Transfer
+2024-01-16,Cable E,Accessories,9.82,7,68.74,North,Retail,Credit Card
+2024-04-26,Tool C,Hardware,26.96,5,134.8,North,Retail,PayPal
+2024-06-16,Sensor D,Electronics,124.31,14,1740.34,South,Retail,Credit Card
+2024-05-11,Widget A,Electronics,50.93,12,611.16,West,Retail,Credit Card
+2024-05-05,Bracket I,Hardware,20.95,5,104.75,South,Retail,Bank Transfer
+2024-03-07,Tool C,Hardware,25.49,14,356.86,East,Retail,PayPal
+2024-05-16,Charger J,Accessories,29.16,7,204.12,West,Retail,Bank Transfer
+2024-01-13,Display H,Electronics,195.74,25,4893.5,South,Wholesale,Bank Transfer
+2024-05-13,Charger J,Accessories,32.28,9,290.52,South,Retail,Bank Transfer
+2024-05-04,Display H,Electronics,192.29,7,1346.03,East,Retail,Cash
+2024-03-17,Cable E,Accessories,9.52,32,304.64,South,Wholesale,Bank Transfer
+2024-01-09,Tool C,Hardware,25.5,10,255.0,South,Retail,Credit Card
+2024-03-09,Mount F,Hardware,31.95,13,415.35,South,Retail,Credit Card
+2024-06-28,Adapter G,Accessories,13.98,8,111.84,North,Retail,Cash
+2024-04-18,Sensor D,Electronics,123.65,47,5811.55,North,Wholesale,Bank Transfer
+2024-05-21,Bracket I,Hardware,21.81,31,676.11,South,Wholesale,PayPal
+2024-03-10,Gadget B,Electronics,74.26,10,742.6,North,Retail,PayPal
+2024-02-22,Cable E,Accessories,10.86,9,97.74,North,Retail,Credit Card
+2024-01-22,Widget A,Electronics,46.78,34,1590.52,West,Wholesale,Bank Transfer
+2024-01-29,Mount F,Hardware,34.23,6,205.38,South,retail,Cash
+2024-02-18,Mount F,Hardware,34.08,4,136.32,South,Retail,Credit Card
+2024-01-21,Adapter G,Accessories,13.53,38,514.14,North,Wholesale,Credit Card
+2024-01-18,Cable E,Accessories,10.04,8,80.32,North,Retail,Credit Card
+2024-04-18,Sensor D,Electronics,118.77,13,1544.01,North,Retail,Credit Card
+2024-04-12,Charger J,Accessories,30.4,21,638.4,North,Wholesale,Credit Card
+2024-06-12,Widget A,Electronics,50.25,48,2412.0,East,Wholesale,PayPal
+2024-06-12,Charger J,Accessories,30.54,1,30.54,West,Retail,Bank Transfer
+2024-06-10,Adapter G,Accessories,15.74,42,661.08,West,Wholesale,Bank Transfer
+2024-05-17,Bracket I,Hardware,20.91,36,752.76,North,Wholesale,Credit Card
+2024-05-12,Sensor D,Electronics,123.07,35,4307.45,South,Wholesale,Credit Card
+2024-03-27,Display H,Electronics,211.96,8,1695.68,North,Retail,Bank Transfer
+2024-06-07,Mount F,Hardware,32.35,1,32.35,East,Retail,Credit Card
+2024-04-23,Charger J,Accessories,27.89,13,362.57,South,Retail,Credit Card
+2024-03-07,Adapter G,Accessories,13.98,11,153.78,South,Retail,PayPal
+2024-02-20,Sensor D,Electronics,129.81,15,1947.15,North,Retail,Credit Card
+2024-02-02,Sensor D,Electronics,135.74,2,271.48,North,Retail,Credit Card
+2024-01-31,Bracket I,Hardware,21.39,10,213.9,South,Retail,Credit Card
+2024-05-30,Adapter G,Accessories,16.17,14,226.38,South,Retail,Credit Card
+2024-01-27,Widget A,Electronics,49.81,12,597.72,West,Retail,PayPal
+2024-06-29,Sensor D,Electronics,131.32,11,1444.52,West,Retail,Cash
+2024-04-08,Display H,Electronics,200.26,29,5807.54,South,wholesale,Bank Transfer
+2024-01-05,Tool C,Hardware,24.71,5,123.55,West,Retail,PayPal
+2024-02-13,Mount F,Hardware,37.92,6,227.52,South,Retail,Credit Card
+2024-06-27,Cable E,Accessories,9.68,44,425.92,North,Wholesale,PayPal
+2024-01-19,Tool C,Hardware,25.27,13,328.51,South,Wholesale,Credit Card
+2024-01-11,Mount F,Hardware,36.75,10,367.5,North,Retail,Credit Card
+2024-06-06,Display H,Electronics,189.62,45,8532.9,North,Wholesale,PayPal
+2024-05-12,Tool C,Hardware,26.2,9,235.8,South,Retail,Bank Transfer
+2024-03-02,Gadget B,Electronics,74.88,10,748.8,South,Retail,Credit Card
+2024-01-02,Sensor D,Electronics,126.18,28,3533.04,South,Wholesale,Bank Transfer
+2024-04-11,Widget A,Electronics,53.36,5,,West,Retail,Credit Card
+2024-04-09,Sensor D,Electronics,136.47,15,2047.05,South,Retail,Bank Transfer
+2024-05-03,Cable E,Accessories,10.32,10,103.2,North,Wholesale,Cash
+2024-03-02,Mount F,Hardware,36.31,14,508.34,West,Retail,Credit Card
+2024-05-31,Sensor D,Electronics,129.38,4,517.52,South,Retail,PayPal
+2024-02-15,Cable E,Accessories,9.97,2,19.94,North,Retail,Credit Card
+2024-04-29,Bracket I,Hardware,20.87,10,208.7,South,Retail,Bank Transfer
+2024-01-18,Cable E,Accessories,10.75,22,,North,Wholesale,Bank Transfer
+2024-06-17,Sensor D,Electronics,133.3,14,1866.2,East,Wholesale,Bank Transfer
+2024-06-01,Gadget B,Electronics,70.17,10,701.7,East,Retail,Bank Transfer
+2024-01-02,Adapter G,Accessories,14.38,8,115.04,SOUTH,Retail,Cash
+2024-02-05,Sensor D,Electronics,119.92,4,479.68,West,Retail,PayPal
+2024-03-29,Adapter G,Accessories,13.52,14,189.28,North,Retail,Credit Card
+2024-03-25,Sensor D,Electronics,130.01,11,1430.11,East,Retail,PayPal
+2024-04-14,Display H,Electronics,188.0,12,2256.0,South,Retail,Credit Card
+2024-02-14,Charger J,Accessories,28.12,38,1068.56,South,Wholesale,PayPal
+2024-03-12,Gadget B,Electronics,74.67,26,1941.42,North,Wholesale,Credit Card
+2024-04-25,Charger J,Accessories,30.35,15,455.25,South,Retail,Credit Card
+2024-04-19,Bracket I,Hardware,18.86,7,132.02,West,Retail,PayPal
+2024-04-06,Tool C,Hardware,23.21,15,348.15,West,Wholesale,Credit Card
+2024-02-13,Widget A,Electronics,54.24,10,542.4,EAST,Retail,Credit Card
+2024-02-08,Display H,Electronics,214.41,2,428.82,West,Retail,Credit Card
+2024-06-26,Gadget B,Electronics,79.76,36,2871.36,West,Wholesale,PayPal
+2024-04-11,Mount F,Hardware,36.98,21,776.58,North,Wholesale,PayPal
+2024-03-10,Gadget B,Electronics,74.78,15,1121.7,South,Retail,Bank Transfer
+2024-04-22,Tool C,Hardware,25.26,12,,South,Retail,Bank Transfer
+2024-05-27,Gadget B,Electronics,79.39,1,79.39,East,Retail,Cash
+2024-01-07,Widget A,Electronics,46.43,46,2135.78,East,Wholesale,Credit Card
+2024-04-13,Adapter G,Accessories,16.32,26,424.32,East,Wholesale,PayPal
+2024-02-11,Widget A,Electronics,51.27,15,769.05,South,Retail,Credit Card
+2024-05-20,Bracket I,Hardware,20.96,18,377.28,East,Wholesale,PayPal
+2024-01-01,Cable E,Accessories,9.94,4,39.76,North,Retail,Credit Card
+2024-04-10,Cable E,Accessories,10.02,5,50.1,North,Retail,Credit Card
+2024-02-14,Cable E,Accessories,10.13,10,101.3,East,Retail,PayPal
+2024-03-20,Mount F,Hardware,36.19,12,434.28,South,Retail,Credit Card
+2024-02-25,Adapter G,Accessories,15.34,9,138.06,North,Retail,PayPal
+2024-01-15,Mount F,Hardware,35.28,1,35.28,North,Retail,Credit Card
+2024-03-09,Sensor D,Electronics,142.81,5,714.05,South,Retail,Credit Card
+2024-02-14,Sensor D,Electronics,138.6,382,52945.2,North,Wholesale,Credit Card
+2024-05-03,Cable E,Accessories,9.06,8,72.48,North,retail,Credit Card
+2024-04-18,Bracket I,Hardware,20.79,9,187.11,South,Retail,PayPal
+2024-01-04,Widget A,Electronics,51.88,11,570.68,North,Retail,PayPal
+2024-02-21,Widget A,Electronics,48.88,6,293.28,North,Retail,Credit Card
+2024-02-22,Adapter G,Accessories,15.13,10,151.3,East,Retail,Cash
+2024-03-27,Gadget B,Electronics,72.56,9,653.04,West,Retail,Bank Transfer
+2024-05-19,Adapter G,Accessories,16.01,14,224.14,West,retail,Bank Transfer
+2024-06-18,Widget A,Electronics,52.76,13,685.88,North,Retail,Credit Card
+2024-03-10,Bracket I,Hardware,18.79,47,883.13,South,Wholesale,Credit Card
+2024-05-11,Bracket I,Hardware,21.36,13,277.68,East,Retail,Credit Card
+2024-04-01,Adapter G,Accessories,15.42,9,138.78,North,Retail,Bank Transfer
+2024-06-05,Display H,Electronics,201.24,13,,North,Retail,Bank Transfer
+2024-04-30,Charger J,Accessories,32.07,6,192.42,North,Retail,Bank Transfer
+2024-01-29,Cable E,Accessories,9.75,1,9.75,South,Retail,Credit Card
+2024-02-21,Mount F,Hardware,32.4,3,97.2,South,Retail,PayPal
+2024-05-28,Bracket I,Hardware,20.57,3,61.71,West,Retail,PayPal
+2024-06-07,Sensor D,Electronics,123.54,10,1235.4,East,Retail,PayPal
+2024-01-20,  Display H  ,Electronics,201.89,2,403.78,South,Retail,Bank Transfer
+2024-04-12,Adapter G,Accessories,14.06,17,239.02,North,Wholesale,Credit Card
+2024-03-28,Tool C,Hardware,27.48,3,82.44,East,Retail,Credit Card
+2024-05-15,Gadget B,Electronics,76.61,26,1991.86,West,Wholesale,Bank Transfer
+2024-03-02,Charger J,Accessories,32.58,13,423.54,West,Retail,Bank Transfer
+2024-04-18,Bracket I,Hardware,19.8,13,257.4,South,Retail,Credit Card
+2024-05-22,Gadget B,Electronics,72.22,14,1011.08,East,Retail,Credit Card
+2024-01-27,Cable E,Accessories,10.94,11,120.34,West,Retail,Bank Transfer
+2024-06-29,Display H,Electronics,200.26,6,1201.56,East,Retail,Cash
+2024-01-02,Mount F,Hardware,32.41,3,97.23,North,Retail,Cash
+2024-01-06,Cable E,Accessories,10.42,15,156.3,North,Retail,Credit Card
+2024-06-28,Sensor D,Electronics,120.19,4,480.76,South,Retail,Credit Card
+2024-06-13,Sensor D,Electronics,127.49,6,764.94,East,Retail,PayPal
+2024-04-19,Charger J,Accessories,31.47,13,409.11,East,Wholesale,Bank Transfer
+2024-06-16,  Gadget B  ,Electronics,76.4,11,840.4,South,Wholesale,Bank Transfer
+2024-03-29,Display H,Electronics,217.0,6,1302.0,South,Retail,PayPal
+2024-04-13,Charger J,Accessories,32.28,33,1065.24,North,Wholesale,Cash
+2024-04-25,Bracket I,Hardware,19.03,7,133.21,West,Retail,Credit Card
+2024-02-07,Adapter G,Accessories,13.92,14,194.88,West,Retail,Credit Card
+2024-05-23,Tool C,Hardware,24.61,7,172.27,West,Retail,PayPal
+2024-02-25,Gadget B,Electronics,75.45,10,754.5,East,Retail,Bank Transfer
+2024-04-27,Bracket I,Hardware,19.33,39,753.87,South,Wholesale,Credit Card
+2024-02-04,Tool C,Hardware,22.95,8,183.6,West,Retail,Credit Card
+2024-05-28,  Charger J  ,Accessories,31.93,9,287.37,South,Retail,Bank Transfer
+2024-02-17,Widget A,Electronics,49.37,7,345.59,East,Retail,PayPal
+2024-05-09,Adapter G,Accessories,15.84,48,760.32,North,Wholesale,Bank Transfer
+2024-03-16,Widget A,Electronics,49.09,36,1767.24,South,Wholesale,PayPal
+2024-04-14,Sensor D,Electronics,127.09,2,254.18,North,Retail,Credit Card
+2024-06-20,Cable E,Accessories,9.59,25,239.75,North,Wholesale,Credit Card
+2024-06-28,Tool C,Hardware,25.96,12,311.52,South,Retail,Cash
+2024-01-05,Gadget B,Electronics,67.98,4,271.92,North,Retail,Credit Card
+2024-03-30,Adapter G,Accessories,16.39,17,278.63,East,Wholesale,PayPal
+2024-02-14,Cable E,Accessories,10.62,8,84.96,North,Retail,PayPal
+2024-06-06,Tool C,Hardware,27.33,8,218.64,South,Retail,PayPal
+2024-02-04,Gadget B,Electronics,75.18,26,1954.68,South,Wholesale,Credit Card
+2024-03-08,Charger J,Accessories,28.6,8,228.8,North,Retail,Bank Transfer
+2024-04-14,Adapter G,Accessories,13.81,4,55.24,West,Retail,Credit Card
+2024-02-08,Tool C,Hardware,26.64,31,825.84,South,Wholesale,Credit Card
+2024-03-19,Widget A,Electronics,47.09,2,94.18,West,Retail,Bank Transfer
+2024-06-19,Display H,Electronics,208.73,8,1669.84,West,Retail,Bank Transfer
+2024-01-09,Tool C,Hardware,26.28,2,52.56,South,Retail,Cash
+2024-01-05,Mount F,Hardware,34.38,44,1512.72,South,Wholesale,Credit Card
+2024-01-11,Widget A,Electronics,51.54,7,360.78,South,Retail,Bank Transfer
+2024-03-16,Gadget B,Electronics,78.43,12,941.16,North,Retail,Bank Transfer
+2024-02-07,Tool C,Hardware,23.88,208,4967.04,North,Retail,Credit Card
+2024-06-22,Tool C,Hardware,25.85,15,387.75,South,Retail,Bank Transfer
+2024-06-24,Gadget B,Electronics,70.7,45,3181.5,West,Wholesale,Credit Card
+2024-01-02,Adapter G,Accessories,15.63,6,93.78,North,Retail,Bank Transfer
+2024-03-04,Adapter G,Accessories,16.23,4,64.92,South,Retail,Bank Transfer
+2024-04-02,Tool C,Hardware,22.8,4,91.2,East,Retail,Credit Card
+2024-06-17,Display H,Electronics,208.0,6,1248.0,West,Retail,Credit Card
+2024-04-01,Cable E,Accessories,10.55,34,358.7,South,Wholesale,Credit Card
+2024-01-05,Display H,Electronics,184.63,15,2769.45,South,Wholesale,PayPal
+2024-04-12,Bracket I,Hardware,18.2,14,254.8,North,Retail,Credit Card
+2024-06-27,Adapter G,Accessories,14.49,10,144.9,South,Retail,PayPal
+2024-05-12,,Electronics,54.73,12,656.76,South,Retail,Credit Card
+2024-05-16,Mount F,Hardware,38.42,1,38.42,East,Retail,Credit Card
+2024-01-06,Adapter G,Accessories,15.47,7,108.29,West,Retail,Credit Card
+2024-04-02,Widget A,Electronics,45.74,9,411.66,North,Retail,Credit Card
+2024-01-15,Sensor D,Electronics,142.53,45,6413.85,East,Wholesale,Credit Card
+2024-03-30,Bracket I,Hardware,19.18,5,95.9,East,Retail,PayPal
+2024-05-22,Mount F,Hardware,33.45,1,33.45,North,Retail,PayPal
+2024-01-06,Mount F,Hardware,37.42,32,1197.44,South,Wholesale,Credit Card
+2024-06-22,Widget A,Electronics,48.81,2,97.62,South,Retail,Credit Card
+2024-04-26,Display H,Electronics,196.96,8,1575.68,North,Retail,Bank Transfer
+2024-06-10,Widget A,Electronics,52.25,11,574.75,South,Retail,PayPal
+2024-04-07,Widget A,Electronics,51.0,12,612.0,North,Wholesale,PayPal
+2024-04-27,Mount F,Hardware,38.42,32,1229.44,North,Wholesale,Credit Card
+2024-02-09,Gadget B,Electronics,67.65,6,,North,Retail,Bank Transfer
+2024-04-10,Mount F,Hardware,36.73,47,1726.31,East,Wholesale,PayPal
+2024-03-02,Tool C,Hardware,23.27,7,162.89,West,Retail,Cash
+2024-05-16,Gadget B,Electronics,75.49,39,2944.11,North,Wholesale,PayPal
+2024-01-26,Display H,Electronics,195.6,30,5868.0,North,Wholesale,Cash
+2024-05-22,Cable E,Accessories,9.51,20,190.2,South,Wholesale,Credit Card
+2024-05-21,Gadget B,Electronics,80.08,7,560.56,North,Retail,Bank Transfer
+2024-02-14,Mount F,Hardware,32.35,28,905.8,South,Wholesale,Bank Transfer
+2024-04-24,Charger J,Accessories,30.41,7,212.87,East,Retail,PayPal
+2024-05-05,Adapter G,Accessories,14.33,25,358.25,West,Wholesale,Cash
+2024-01-06,Tool C,Hardware,24.91,41,1021.31,North,Wholesale,Credit Card
+2024-05-29,Bracket I,Hardware,19.12,2,38.24,West,Retail,Cash
+2024-06-03,Adapter G,Accessories,15.38,9,,South,Retail,PayPal
+2024-04-05,Mount F,Hardware,37.77,12,453.24,South,Retail,Credit Card
+2024-03-17,Cable E,Accessories,10.8,5,54.0,West,Retail,Bank Transfer
+2024-01-23,Tool C,Hardware,24.54,14,343.56,North,Retail,Bank Transfer
+2024-01-19,Charger J,Accessories,31.9,5,159.5,West,Retail,Credit Card
+2024-05-23,Sensor D,Electronics,137.35,19,2609.65,West,Wholesale,Cash
+2024-03-13,Adapter G,Accessories,13.98,49,685.02,North,Wholesale,Credit Card
+2024-06-18,Charger J,Accessories,31.38,37,1161.06,North,Wholesale,PayPal
+2024-01-31,Adapter G,Accessories,14.38,12,172.56,East,Retail,Bank Transfer
+2024-02-09,Charger J,Accessories,31.83,41,1305.03,West,Wholesale,Credit Card
+2024-04-18,Charger J,Accessories,30.59,11,336.49,NORTH,Retail,Credit Card
+2024-03-10,Sensor D,Electronics,126.29,17,2146.93,South,Wholesale,PayPal
+2024-03-12,Sensor D,Electronics,134.17,28,3756.76,South,Wholesale,PayPal
+2024-04-21,Gadget B,Electronics,68.05,11,748.55,North,Retail,PayPal
+2024-05-01,Mount F,Hardware,34.76,41,1425.16,South,Wholesale,Bank Transfer
+2024-01-09,Widget A,Electronics,51.0,5,255.0,North,Retail,Cash
+2024-04-01,Widget A,Electronics,53.41,22,1175.02,North,Wholesale,Cash
+2024-05-06,Tool C,Hardware,25.72,7,180.04,North,Retail,Credit Card
+2024-06-06,Widget A,Electronics,51.45,6,308.7,North,Retail,Credit Card
+2024-04-09,Charger J,Accessories,27.13,50,1356.5,North,Wholesale,PayPal
+2024-02-09,Bracket I,Hardware,18.05,48,866.4,South,Wholesale,Bank Transfer
+2024-01-29,Bracket I,Hardware,19.06,3,57.18,West,Retail,Credit Card
+2024-04-21,Display H,Electronics,193.55,32,6193.6,North,Wholesale,Credit Card
+2024-02-19,Widget A,Electronics,47.02,11,517.22,East,Retail,Bank Transfer
+2024-02-12,Widget A,Electronics,46.59,10,465.9,South,wholesale,Bank Transfer
+2024-02-22,Bracket I,Hardware,20.69,50,1034.5,South,Wholesale,Credit Card
+2024-01-26,Mount F,Hardware,33.34,2,66.68,East,Retail,Credit Card
+2024-04-14,,Accessories,10.75,2,21.5,North,Retail,PayPal
+2024-04-14,Cable E,Accessories,9.77,7,68.39,West,Retail,Credit Card
+2024-02-04,Widget A,Electronics,52.86,50,2643.0,North,Wholesale,Credit Card
+2024-04-20,Tool C,Hardware,23.6,22,519.2,West,Wholesale,PayPal
+2024-04-27,Widget A,Electronics,50.23,7,351.61,South,Retail,PayPal
+2024-04-25,Sensor D,Electronics,131.25,1,131.25,North,Retail,Bank Transfer
+2024-05-26,Sensor D,Electronics,130.57,3,391.71,North,Retail,Bank Transfer
+2024-01-12,Adapter G,Accessories,14.7,4,58.8,South,Retail,Credit Card
+2024-06-04,Charger J,Accessories,30.67,2,61.34,East,Retail,PayPal
+2024-03-31,  Gadget B  ,Electronics,78.98,49,3870.02,North,Wholesale,Bank Transfer
+2024-03-26,Widget A,Electronics,45.45,8,363.6,West,Retail,Bank Transfer
+2024-03-02,Charger J,Accessories,32.46,26,843.96,North,Wholesale,Credit Card
+2024-01-20,Charger J,Accessories,29.02,6,174.12,North,retail,PayPal
+2024-04-17,Tool C,Hardware,23.89,19,453.91,South,Wholesale,Credit Card
+2024-01-09,Sensor D,Electronics,124.64,15,1869.6,West,Wholesale,PayPal
+2024-03-27,Charger J,Accessories,27.13,25,678.25,South,Wholesale,Credit Card
+2024-02-13,Widget A,Electronics,49.87,9,448.83,North,Retail,Cash
+2024-05-28,Cable E,Accessories,9.95,3,29.85,West,Retail,Credit Card
+2024-03-31,Sensor D,Electronics,121.34,10,1213.4,North,Retail,Bank Transfer
+2024-04-21,Bracket I,Hardware,18.59,44,817.96,South,Wholesale,PayPal
+2024-03-21,Tool C,Hardware,27.31,1,27.31,South,Retail,PayPal
+2024-05-28,Tool C,Hardware,26.05,15,390.75,South,Retail,PayPal
+2024-02-15,Display H,Electronics,190.9,14,2672.6,South,Retail,Credit Card
+2024-04-08,Widget A,Electronics,47.07,36,1694.52,South,Wholesale,Bank Transfer
+2024-01-14,Sensor D,Electronics,128.61,9,1157.49,South,Retail,Cash
+2024-01-24,Gadget B,Electronics,73.92,12,887.04,North,Retail,Bank Transfer
+2024-05-15,Adapter G,Accessories,16.42,1,16.42,West,Retail,Bank Transfer
+2024-05-17,Mount F,Hardware,35.42,13,460.46,South,Retail,PayPal
+2024-01-09,Adapter G,Accessories,13.96,6,83.76,South,Retail,Bank Transfer
+2024-03-15,Cable E,Accessories,9.08,5,45.4,South,Retail,Bank Transfer
+2024-04-26,Widget A,Electronics,51.75,14,724.5,North,Retail,PayPal
+2024-05-04,Tool C,Hardware,24.51,9,220.59,North,Retail,Credit Card
+2024-01-13,Display H,Electronics,196.68,38,7473.84,North,Wholesale,Cash
+2024-02-17,Adapter G,Accessories,16.27,2,32.54,North,Retail,Credit Card
+2024-06-09,Cable E,Accessories,9.21,25,230.25,North,Wholesale,Cash
+2024-02-24,Adapter G,Accessories,15.84,42,665.28,South,Wholesale,Credit Card
+2024-05-28,Widget A,Electronics,49.57,2,99.14,South,Retail,PayPal
+,,,,,,,,
+2024-01-11,Cable E,Accessories,10.83,5,54.15,North,Retail,Credit Card
+2024-03-02,Cable E,Accessories,10.9,1,10.9,North,Retail,Credit Card
+2024-02-20,Sensor D,Electronics,129.1,10,1291.0,East,Retail,Bank Transfer
+2024-05-04,Display H,Electronics,193.67,41,7940.47,North,Wholesale,Credit Card
+2024-02-25,Widget A,Electronics,54.58,5,272.9,North,Retail,PayPal
+2024-02-13,Mount F,Hardware,34.51,4,138.04,North,Retail,PayPal
+2024-05-16,Gadget B,Electronics,67.57,21,1418.97,North,Wholesale,PayPal
+2024-01-22,Tool C,Hardware,24.9,43,1070.7,North,Wholesale,Bank Transfer
+2024-02-06,Tool C,Hardware,26.68,11,293.48,East,Retail,PayPal
+2024-06-08,Tool C,Hardware,23.14,7,161.98,West,Retail,Credit Card
+2024-03-21,Widget A,Electronics,53.4,6,320.4,South,Retail,Credit Card
+2024-03-05,Gadget B,Electronics,72.43,4,289.72,NORTH,Retail,Credit Card
+2024-06-17,Sensor D,Electronics,119.22,18,2145.96,West,Wholesale,Credit Card
+2024-05-02,Cable E,Accessories,10.1,3,30.3,East,Retail,Credit Card
+2024-05-02,Adapter G,Accessories,16.17,12,194.04,North,Retail,Credit Card
+2024-04-26,Tool C,Hardware,23.83,3,71.49,North,Retail,Credit Card
+2024-05-22,Tool C,Hardware,25.2,23,579.6,South,Wholesale,Credit Card
+2024-04-18,Widget A,Electronics,45.84,15,687.6,West,Retail,Credit Card
+2024-04-22,Widget A,Electronics,53.9,10,539.0,North,Retail,Bank Transfer
+2024-04-11,Charger J,Accessories,31.1,7,217.7,North,Retail,Credit Card
+2024-05-17,Tool C,Hardware,22.53,2,45.06,North,retail,Cash
+2024-02-08,Adapter G,Accessories,14.08,15,211.2,WEST,Retail,Credit Card
+2024-02-06,Gadget B,Electronics,79.76,15,1196.4,North,Retail,Credit Card
+2024-02-27,Widget A,Electronics,45.3,6,271.8,South,Retail,Bank Transfer
+2024-01-20,Adapter G,Accessories,15.25,4,61.0,South,Retail,Credit Card
+2024-02-27,Cable E,Accessories,10.93,7,76.51,West,Retail,Bank Transfer
+2024-03-01,Tool C,Hardware,23.24,50,1162.0,South,Wholesale,PayPal
+2024-01-12,Adapter G,Accessories,15.57,2,31.14,East,Retail,Cash
+2024-03-27,Adapter G,Accessories,15.58,33,514.14,South,Wholesale,Credit Card
+2024-06-05,Cable E,Accessories,9.59,29,278.11,North,Wholesale,PayPal
+2024-05-24,Mount F,Hardware,34.08,9,306.72,North,Retail,PayPal
+2024-03-19,Widget A,Electronics,54.57,14,,North,Retail,Bank Transfer
+,,,,,,,,
+2024-01-23,Tool C,Hardware,25.74,6,154.44,South,Retail,Credit Card
+2024-06-24,Charger J,Accessories,32.4,12,388.8,North,Retail,PayPal
+2024-03-25,Charger J,Accessories,29.91,15,448.65,South,Retail,Bank Transfer
+2024-04-17,Cable E,Accessories,9.14,2,18.28,West,Retail,Credit Card
+2024-03-19,Charger J,Accessories,29.22,8,233.76,South,Retail,Credit Card
+2024-04-16,Adapter G,Accessories,15.13,4,60.52,East,Retail,PayPal
+2024-01-30,Cable E,Accessories,10.27,5,,South,Retail,Cash
+2024-05-31,Widget A,Electronics,45.46,9,409.14,South,Retail,Bank Transfer
+2024-04-20,Display H,Electronics,192.73,45,8672.85,East,Wholesale,Credit Card
+2024-05-28,Cable E,Accessories,9.57,11,105.27,South,Retail,Bank Transfer
+2024-03-05,Cable E,Accessories,9.24,13,120.12,South,Retail,Cash
+2024-04-05,Charger J,Accessories,29.65,7,207.55,South,Retail,Credit Card
+2024-02-23,Adapter G,Accessories,15.8,25,395.0,West,Wholesale,Credit Card
+2024-04-04,Charger J,Accessories,29.53,19,561.07,North,Wholesale,Credit Card
+2024-04-26,Gadget B,Electronics,77.52,27,2093.04,South,Wholesale,Cash
+2024-01-06,Adapter G,Accessories,14.99,12,179.88,North,Retail,Credit Card
+2024-06-20,Mount F,Hardware,36.72,13,477.36,South,Retail,Bank Transfer
+2024-06-18,Gadget B,Electronics,69.92,5,,West,Retail,PayPal
+2024-01-29,Display H,Electronics,194.26,8,1554.08,West,Retail,Credit Card
+2024-06-03,Tool C,Hardware,26.71,15,400.65,North,Retail,Cash
+2024-01-25,Charger J,Accessories,28.55,7,199.85,West,Retail,PayPal
+2024-02-25,Cable E,Accessories,10.78,14,150.92,North,Wholesale,Credit Card
+2024-01-25,Charger J,Accessories,29.97,37,1108.89,North,Wholesale,PayPal
+2024-05-14,Cable E,Accessories,10.91,12,130.92,South,Retail,Bank Transfer
+2024-05-10,Cable E,Accessories,10.02,8,80.16,North,Retail,Bank Transfer
+2024-01-07,Tool C,Hardware,26.69,9,240.21,East,Retail,PayPal
+2024-03-08,  Mount F  ,Hardware,36.1,12,433.2,North,Wholesale,PayPal
+2024-01-28,Adapter G,Accessories,13.7,11,150.7,North,Wholesale,Bank Transfer
+2024-03-06,Adapter G,Accessories,13.92,10,139.2,South,wholesale,PayPal
+2024-01-09,Adapter G,Accessories,16.07,13,208.91,North,Wholesale,Credit Card
+2024-01-23,Charger J,Accessories,31.33,12,375.96,East,Retail,Bank Transfer
+2024-03-09,Gadget B,Electronics,78.25,44,3443.0,South,Wholesale,Credit Card
+2024-06-10,Sensor D,Electronics,130.38,4,521.52,South,Retail,Credit Card
+2024-01-01,Gadget B,Electronics,76.96,7,538.72,North,Retail,Credit Card
+2024-01-13,Display H,Electronics,196.68,38,7473.84,North,Wholesale,Cash
+2024-04-29,Gadget B,Electronics,80.97,13,1052.61,North,Retail,Bank Transfer
+2024-02-24,Tool C,Hardware,26.54,9,238.86,East,Retail,Cash
+2024-03-08,Charger J,Accessories,28.6,8,228.8,North,Retail,Bank Transfer
+2024-05-14,Gadget B,Electronics,77.22,12,926.64,East,Retail,PayPal
+2024-05-19,Bracket I,Hardware,21.58,1,21.58,North,Retail,Credit Card
+2024-05-30,Mount F,Hardware,37.34,14,522.76,South,Retail,Credit Card
+2024-04-04,Adapter G,Accessories,14.32,6,85.92,West,Retail,PayPal
+2024-05-15,Tool C,Hardware,26.07,9,234.63,South,Retail,PayPal
+2024-04-24,Display H,Electronics,189.4,17,3219.8,North,Wholesale,Bank Transfer
+2024-03-25,Mount F,Hardware,36.16,11,397.76,East,Wholesale,PayPal
+2024-02-20,Bracket I,Hardware,20.31,31,629.61,North,Wholesale,Bank Transfer
+2024-05-16,Adapter G,Accessories,14.12,44,621.28,West,Wholesale,Credit Card
+2024-03-25,Sensor D,Electronics,120.95,15,1814.25,East,Retail,PayPal
